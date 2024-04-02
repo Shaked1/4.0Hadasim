@@ -13,10 +13,10 @@ The framework consists of two main parts: server side and client side.
 
 ## Languages
 ### server
- Python
+ Python 
 
  ### clinet
-HTML
+HTML \n
 CSS
 JavaScript
 
